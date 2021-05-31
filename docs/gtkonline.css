@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .gtkonline_heading {
     background-color: #24a59f;
@@ -18,4 +19,7 @@ body {
 }
 .gtkonline_explanation img {
     float: right;
+}
+#chromelogo {
+    margin: 20px;
 }
